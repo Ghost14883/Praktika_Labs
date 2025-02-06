@@ -54,3 +54,8 @@ h1 {
     max-height: 200px; /* Adjust depending on content height */
     padding: 15px;
 }
+
+.error-message {
+    display: none;
+    color: red;
+}
